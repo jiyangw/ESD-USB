@@ -1,0 +1,6 @@
+1、 苹果近两年WWDC都发布了什么新技术?
+
+WWDC2014上发布了OSX Yosemite和iOS 8。在Yosemite中有强化过的Spotlight, iCloud Drive, mail drop (可以发送大容量附件)，Markup(可在邮件或者PDF中编辑图片)。另外令人印象深刻的还有Continuity技术，即可以在近距离感知apple device，在附近的apple device上智能连接。比如你在卧室的iphone响了，你可以直接在客厅的mac里接电话，而不用再跑到卧室。在iOS 8里强化了用户交互界面，有了quicktype(输入时自动预测)，iCloud drive，Health，family sharing, touch ID等功能。在API方面，提供了Photokit, HealthKit, HomeKit, CloudKit, Metal等。iOS 8大大加强了扩展性extensibility。可以调用很多第三方widget，比如photo filter，第三方keyboard。还发布了新的Swift语言。
+
+WWDC2015上发布了OSX EI Capitan，iOS9，apple pay，Watch OS和apple music。新版OSX有强大的Multitask功能（分屏同时运行两个软件，画中画功能）。iOS为开发者提供了Metal(可以直接操作底层硬件的图形API)，GameplayKit, SpriteKit，SceneKit，Model I/O, ReplayKit，这些都为游戏开发提供了更好的性能和环境。此外还有HealthKit(监测人体健康参数)，HomeKit(连接智能家具)，Carplay等。另外Swift 2将免费开源。Watch OS2为开发者提供了taptic engine, Accelerometer, WatchKit等开发工具。
+
